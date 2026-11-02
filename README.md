@@ -44,7 +44,7 @@ An advanced data modeling project featuring multiple fact tables, shared dimensi
 
 **Tools:** Power BI · Data Modeling · DAX
 
-[![View Project](https://img.shields.io/badge/GitHub-View_Project-181717?style=flat&logo=github&logoColor=white)](YOUR_ADVANCED_MODELING_REPO_LINK)
+[![View Project](https://img.shields.io/badge/GitHub-View_Project-181717?style=flat&logo=github&logoColor=white)](https://github.com/salmayasser55678-byte/Advanced-Data-Modeling-Project)
 
 ### 2. Pizza Sales Dashboard – Power BI
 
@@ -52,7 +52,7 @@ An interactive dashboard analyzing pizza sales performance, revenue trends, prod
 
 **Tools:** Power BI · Power Query · DAX
 
-[![View Project](https://img.shields.io/badge/GitHub-View_Project-181717?style=flat&logo=github&logoColor=white)](YOUR_PIZZA_REPO_LINK)
+[![View Project](https://img.shields.io/badge/GitHub-View_Project-181717?style=flat&logo=github&logoColor=white)](https://github.com/salmayasser55678-byte/Pizza-Sales-Dashboard)
 
 ### 3. Customer Revenue & Churn Dashboard – Excel
 
@@ -60,17 +60,16 @@ An interactive dashboard exploring revenue performance, customer behavior, churn
 
 **Tools:** Microsoft Excel · Pivot Tables · Data Visualization
 
-[![View Project](https://img.shields.io/badge/GitHub-View_Project-181717?style=flat&logo=github&logoColor=white)](YOUR_REVENUE_CHURN_REPO_LINK)
+[![View Project](https://img.shields.io/badge/GitHub-View_Project-181717?style=flat&logo=github&logoColor=white)]([YOUR_REVENUE_CHURN_REPO_LINK](https://github.com/salmayasser55678-byte/E-Commerce-Dashboard))
 
 ## 📁 Other Projects
 
 - **Sales Performance & Customer Segmentation – Excel**
   - Sales performance, profitability, customer segments, and discount analysis.
-  - [![GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=flat&logo=github&logoColor=white)](YOUR_SALES_REPO_LINK)
-
+  - [![GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=flat&logo=github&logoColor=white)](https://github.com/salmayasser55678-byte/Customer-Sales-Dashboard)
 - **Product Sales Dashboard – Excel**
   - Product performance, category analysis, top products, and monthly demand trends.
-  - [![GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=flat&logo=github&logoColor=white)](YOUR_PRODUCT_REPO_LINK)
+  - [![GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=flat&logo=github&logoColor=white)]([YOUR_PRODUCT_REPO_LINK](https://github.com/salmayasser55678-byte/Product-Sales-Dashboard))
 
 ## 🎓 Education
 
@@ -93,4 +92,4 @@ November 2025 – July 2026
 ## 📫 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salmayasser55678-byte)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/salma-yasser-4145b3321)
