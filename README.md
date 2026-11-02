@@ -1,7 +1,4 @@
 ## Hi, I'm Salma Yasser
-
-<!--
-**salmayasser55678-byte/salmayasser55678-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Junior data analyst has a passion in statistics and analytical skills and turn messy data into clear roadmaps. Have a commerce background. 
 When I discovered my passion I decided to learn data analysis. 
 Started My Journey in learning Data Analysis at Depi. Skilled in Excel, Power Bi, SQL,  Data Cleaning and preparation by powerquery, Data visualization and build Interactive Dashboards. combine a passion for small details with strict deadlines, For high-quality company's sales analysis. Expanding my proficiency in various data analysis tools.
