@@ -1,44 +1,96 @@
-## Hi, I'm Salma Yasser
-Junior data analyst has a passion in statistics and analytical skills and turn messy data into clear roadmaps. Have a commerce background. 
-When I discovered my passion I decided to learn data analysis. 
-Started My Journey in learning Data Analysis at Depi. Skilled in Excel, Power Bi, SQL,  Data Cleaning and preparation by powerquery, Data visualization and build Interactive Dashboards. combine a passion for small details with strict deadlines, For high-quality company's sales analysis. Expanding my proficiency in various data analysis tools.
 
-TECHNICAL SKILLS:
--Microsoft Excel: Complex Formulas, Power Query, Power Pivot, Pivot Tables, Pivot Charts, Data Transformation & Analysis.
--Microsoft Power BI: DAX Measures, Power Query, Data Modeling, Data Visualization, Dynamic Dashboards.
--SQL & Database Querying: SELECT, DDL, DML, Data Filtering & Sorting, Joins, Set Operators.
--SQL Functions & Analytics: String, Numeric & Date Functions, NULL Handling, CASE Statements, Aggregate Functions, Window
-Functions (Ranking, Aggregate & Value).
--Advanced SQL Techniques: Subqueries, Common Table Expressions (CTEs), Views, CTAS, Temporary Tables.
+# Hi, I'm Salma Yasser 👋
 
-Featured Projects:
-1. Advanced Data Modeling – Power BI
-Designing a multi-fact data model using shared dimensions, relationship management, Galaxy Schema, and Row-Level Security.
-Power BI · Data Modeling · DAX
-View Project "https://github.com/salmayasser55678-byte?utm_source=chatgpt.com"
+### Junior Data Analyst | Commerce Background
 
-2. Pizza Sales Dashboard – Power BI
-Analyzing sales performance, revenue trends, product rankings, and customer ordering patterns.
-Power BI · Power Query · DAX
-View Project "https://github.com/salmayasser55678-byte?utm_source=chatgpt.com"
+I'm a Junior Data Analyst with a strong interest in statistics, data analysis, and problem-solving. With a background in Commerce, I enjoy transforming messy data into clear insights and actionable business recommendations.
 
-3. Customer Revenue & Churn Dashboard – Excel
-Exploring revenue performance, customer behavior, churn, and product contribution.
-Excel · Pivot Tables · Data Visualization
-View Project"https://github.com/salmayasser55678-byte?utm_source=chatgpt.com"
+I started my data analytics journey through the Digital Egypt Pioneers Initiative (DEPI), where I developed practical skills in data cleaning, transformation, analysis, and visualization.
 
-📁 Other Projects
-- Sales Performance & Customer Segmentation – Excel
-- Product Sales Dashboard – Excel
+I work with Excel, Power BI, and SQL to explore data, identify trends, build interactive dashboards, and support data-driven business decisions. I'm continuously expanding my technical skills and exploring new analytical techniques.
 
-EDUCATION:
-Bachelor of Commerce, English Section 2023 – 2027
-Assiut University Assiut, Egypt
+## 🛠️ Technical Skills
 
-TRAINING:
-Data Analysis Trainee Nov 2025 – Jul 2026
-Digital Egypt Pioneers Initiative (DEPI) Data Analytics – Microsoft Power BI Specialist
-Governmental Initiative aiming to prepare students for the labor market by providing technical, soft skills, and business English
-training.
-Mastered data analysis from basic to advanced levels, specializing in data transformation, cleaning, and visualization to build
-interactive dashboards using Excel, Power BI.
+**Microsoft Excel**
+- Advanced Formulas
+- Power Query
+- Power Pivot
+- Pivot Tables & Pivot Charts
+- Data Transformation & Analysis
+
+**Microsoft Power BI**
+- DAX Measures
+- Power Query
+- Data Modeling
+- Data Visualization
+- Interactive & Dynamic Dashboards
+
+**SQL & Database Querying**
+- SQL Fundamentals: SELECT, DDL, DML
+- Data Filtering & Sorting
+- Joins & Set Operators
+- String, Numeric & Date Functions
+- NULL Handling & CASE Statements
+- Aggregate Functions
+- Window Functions: Ranking, Aggregate & Value Functions
+- Subqueries & Common Table Expressions (CTEs)
+- Views, CTAS & Temporary Tables
+
+## 📊 Featured Projects
+
+### 1. Advanced Data Modeling – Power BI
+
+An advanced data modeling project featuring multiple fact tables, shared dimensions, relationship management, Galaxy Schema, role-playing dimensions, bridge tables, and Row-Level Security (RLS).
+
+**Tools:** Power BI · Data Modeling · DAX
+
+[![View Project](https://img.shields.io/badge/GitHub-View_Project-181717?style=flat&logo=github&logoColor=white)](YOUR_ADVANCED_MODELING_REPO_LINK)
+
+### 2. Pizza Sales Dashboard – Power BI
+
+An interactive dashboard analyzing pizza sales performance, revenue trends, product rankings, category contribution, and customer ordering patterns to support business decisions.
+
+**Tools:** Power BI · Power Query · DAX
+
+[![View Project](https://img.shields.io/badge/GitHub-View_Project-181717?style=flat&logo=github&logoColor=white)](YOUR_PIZZA_REPO_LINK)
+
+### 3. Customer Revenue & Churn Dashboard – Excel
+
+An interactive dashboard exploring revenue performance, customer behavior, churn rate, product contribution, payment preferences, and monthly trends to identify revenue drivers and customer retention opportunities.
+
+**Tools:** Microsoft Excel · Pivot Tables · Data Visualization
+
+[![View Project](https://img.shields.io/badge/GitHub-View_Project-181717?style=flat&logo=github&logoColor=white)](YOUR_REVENUE_CHURN_REPO_LINK)
+
+## 📁 Other Projects
+
+- **Sales Performance & Customer Segmentation – Excel**
+  - Sales performance, profitability, customer segments, and discount analysis.
+  - [![GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=flat&logo=github&logoColor=white)](YOUR_SALES_REPO_LINK)
+
+- **Product Sales Dashboard – Excel**
+  - Product performance, category analysis, top products, and monthly demand trends.
+  - [![GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=flat&logo=github&logoColor=white)](YOUR_PRODUCT_REPO_LINK)
+
+## 🎓 Education
+
+**Bachelor of Commerce – English Section**  
+Assiut University | 2023 – 2027  
+Assiut, Egypt
+
+## 📚 Training
+
+**Data Analysis Trainee – Digital Egypt Pioneers Initiative (DEPI)**  
+November 2025 – July 2026
+
+**Track:** Data Analytics – Microsoft Power BI Specialist
+
+- Completed technical training covering data analysis concepts and practical applications.
+- Developed skills in data cleaning, transformation, and preparation.
+- Worked with Excel and Power BI to analyze data and build interactive dashboards.
+- Gained experience in data visualization and presenting insights.
+
+## 📫 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salmayasser55678-byte)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
