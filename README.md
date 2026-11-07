@@ -89,11 +89,13 @@ November 2025 – July 2026
 - Worked with Excel and Power BI to analyze data and build interactive dashboards.
 - Gained experience in data visualization and presenting insights.
 
-CERTIFICATIONS
-Business Intelligence and Data Analysis ↗ – eYouth, “Link” Program (Oct 2026)
-Microsoft Power BI Specialist ↗ – Digital Egypt Pioneers Initiative (DEPI), Ministry of Communications and Information Technology
-(Nov 2025 – Jul 2026)
+## 🎓 Certifications & Badges
 
+* 🏆 **[Business Intelligence and Data Analysis](https://drive.google.com/file/d/1YYs7JbPoabd5u436X49A58ryV0Jdq3l4/view?usp=sharing)**  
+  *eYouth, "Link" Program | Oct 2026*
+
+* 🏆 **[Microsoft Power BI Specialist](https://drive.google.com/drive/folders/1qNnw5crb8AzodkP1MeyojfwG1lF7FqAS?usp=drive_link)**  
+  *Digital Egypt Pioneers Initiative (DEPI) & MCIT | Nov 2025 - Jul 2026*
 
 ## 📫 Connect with Me
 
