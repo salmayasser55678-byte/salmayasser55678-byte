@@ -37,8 +37,15 @@ I work with Excel, Power BI, and SQL to explore data, identify trends, build int
 - Views, CTAS & Temporary Tables
 
 ## 📊 Featured Projects
+**1. SQL Data Cleaning & Standardization Projects**
 
-### 1. Advanced Data Modeling – Power BI
+Developed advanced SQL scripts utilizing CTEs, Window Functions, and conditional logic to cleanse, deduplicate, and validate anomalies in E-commerce and Shipments datasets. Ensured high data integrity for downstream analysis by standardizing text casing, handling missing values, and executing complex deduplication logic.
+
+**Tools:** SQL Server · Null Handling · CTEs · Window Functions
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/salmayasser55678-byte/SQL-Data-Cleaning-Standardization-Projects)
+
+### 2. Advanced Data Modeling – Power BI
 
 An advanced data modeling project featuring multiple fact tables, shared dimensions, relationship management, Galaxy Schema, role-playing dimensions, bridge tables, and Row-Level Security (RLS).
 
@@ -46,7 +53,7 @@ An advanced data modeling project featuring multiple fact tables, shared dimensi
 
 [![View Project](https://img.shields.io/badge/GitHub-View_Project-181717?style=flat&logo=github&logoColor=white)](https://github.com/salmayasser55678-byte/Advanced-Data-Modeling-Project)
 
-### 2. Pizza Sales Dashboard – Power BI
+### 3. Pizza Sales Dashboard – Power BI
 
 An interactive dashboard analyzing pizza sales performance, revenue trends, product rankings, category contribution, and customer ordering patterns to support business decisions.
 
@@ -54,7 +61,7 @@ An interactive dashboard analyzing pizza sales performance, revenue trends, prod
 
 [![View Project](https://img.shields.io/badge/GitHub-View_Project-181717?style=flat&logo=github&logoColor=white)](https://github.com/salmayasser55678-byte/Pizza-Sales-Dashboard)
 
-### 3. Customer Revenue & Churn Dashboard – Excel
+### 4. Customer Revenue & Churn Dashboard – Excel
 
 An interactive dashboard exploring revenue performance, customer behavior, churn rate, product contribution, payment preferences, and monthly trends to identify revenue drivers and customer retention opportunities.
 
