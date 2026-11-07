@@ -89,6 +89,12 @@ November 2025 – July 2026
 - Worked with Excel and Power BI to analyze data and build interactive dashboards.
 - Gained experience in data visualization and presenting insights.
 
+CERTIFICATIONS
+Business Intelligence and Data Analysis ↗ – eYouth, “Link” Program (Oct 2026)
+Microsoft Power BI Specialist ↗ – Digital Egypt Pioneers Initiative (DEPI), Ministry of Communications and Information Technology
+(Nov 2025 – Jul 2026)
+
+
 ## 📫 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salmayasser55678-byte)
